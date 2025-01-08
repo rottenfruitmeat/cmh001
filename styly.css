@@ -1,0 +1,80 @@
+body {
+    background-image: url(img/fon1.jpg);
+  }
+    .str img { display: flex;
+      width: 95px;
+      margin-left: 40px;
+    }
+.a {
+display: flex;
+flex-wrap: nowrap;
+      margin-top: 30PX;
+}
+    h1{
+      display: flex;
+      font-size: 80PX;
+      margin-left: 50PX;
+      color: #ffffff;
+    }
+    h2 {
+      display: flex;
+      font-size: 30px;
+      margin-left: 30px;
+      color: #ffffff;
+      margin-top: 30px;
+    }
+
+.c {
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-between;
+margin: 20px;
+margin-left: 60px;
+margin-bottom: 25px;
+}
+
+
+.k1 {
+    display: flex;
+    width: 800px;
+    margin-left: 45px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 45px ;
+    justify-content: center;
+}
+
+.f{
+  width: 500px;
+  justify-content: center;
+  margin: 30px;
+  margin-left: 60px;
+}
+h3 {
+  display: flex;
+  font-size: 50px;
+  margin-left: 50px;
+  margin-top: 125px;
+  font-size: 40px;
+  color: white;
+  background-color: black;
+}
+.as{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+h4 {
+  display: flex;
+  font-size: 20px;
+  margin-right: 30px ;
+  margin-left: 50px;
+
+  color: white;
+  background-color: black;
+}
+button {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 150px;
+}
