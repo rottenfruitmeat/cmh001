@@ -1,7 +1,5 @@
-body {
-    background-image: url(img/fon1.jpg);
-  }
-    .str img { display: flex;
+
+    .pus img { display: flex;
       width: 95px;
       margin-left: 40px;
     }
@@ -77,4 +75,15 @@ button {
   display: flex;
   margin-top: 20px;
   margin-left: 150px;
+}
+header{
+  display: flex;
+  background-color: whitesmoke;
+  color: #000;
+  font-size: 3pc;
+  margin-bottom: 2pc;
+}
+.os {
+  display: flex;
+  align-items: center;
 }
